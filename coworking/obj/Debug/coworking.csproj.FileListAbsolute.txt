@@ -1,0 +1,6 @@
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\bin\coworking.dll.config
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\bin\coworking.dll
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\bin\coworking.pdb
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\obj\Debug\coworking.csprojResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\obj\Debug\coworking.dll
+c:\users\javi\documents\visual studio 2013\Projects\coworking\coworking\obj\Debug\coworking.pdb
